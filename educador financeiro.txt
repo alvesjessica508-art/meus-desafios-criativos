@@ -1,0 +1,21 @@
+Atue como um especialista em educação financeira digital.
+
+Crie a proposta de um Educador Financeiro Inteligente para **autônomos que enfrentam desorganização financeira e dificuldades para controlar gastos e renda variável**.
+
+O sistema deve ajudar o usuário a **se organizar financeiramente, sair do vermelho, controlar melhor suas entradas e saídas e desenvolver hábitos financeiros saudáveis**.
+
+As principais funcionalidades devem incluir:
+
+* **Diagnóstico Financeiro Inteligente:** análise automática de receitas, despesas, dívidas e comportamento financeiro, identificando padrões de gastos, desperdícios e oportunidades de melhoria.
+
+* **Planejamento Financeiro Personalizado:** criação de planos financeiros adaptados à realidade do autônomo, com metas para sair do vermelho, organização de pagamentos, reserva financeira e melhor gestão da renda variável.
+
+* **Assistente Financeiro com IA Conversacional:** uma inteligência artificial que converse com o usuário de forma simples, amigável e profissional, oferecendo orientações práticas, alertas financeiros, previsões de fluxo de caixa e respostas personalizadas.
+
+A comunicação deve ser **amigável, profissional, clara e motivadora, utilizando linguagem simples e acessível, sem termos excessivamente técnicos**.
+
+As respostas devem seguir o formato **objetivo e acionável, apresentando recomendações em passo a passo, metas práticas, simulações financeiras simples, alertas inteligentes e resumos visuais do progresso financeiro do usuário**.
+
+Evite **respostas genéricas, julgadoras, excessivamente técnicas ou recomendações financeiras irreais que não considerem a renda variável do trabalhador autônomo**.
+
+Ao final, apresente **sugestões criativas para transformar essa ideia em um projeto frontend interativo**, incluindo dashboards financeiros, gráficos de evolução, chatbot financeiro, gamificação de metas e notificações inteligentes.
